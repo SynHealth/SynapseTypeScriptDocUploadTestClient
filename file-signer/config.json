@@ -1,0 +1,9 @@
+{
+  "filePath": "C:/path/to/your/file.pdf",
+  "privateKeyPath": "C:/path/to/your/private-key.pem",
+  "clientId": "your-client-id7",
+  "clientSecret": "your-client-secret",
+  "scope": "fulfill_integrations_api",
+  "identityUrl": "https://app-dmepos-identity-uat.azurewebsites.net/connect/token",
+  "uploadUrl": "https://integrations-api.synapsehealth.dev/api/v1/documents"
+}
